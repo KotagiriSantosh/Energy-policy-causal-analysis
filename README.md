@@ -56,3 +56,12 @@ These values suggest that, on average, **renewable energy plants (solar/wind)** 
 
 ## 🗂️ Repository Structure
 
+energy-policy-causal-analysis/
+│
+├── Energy_Policy_Causal_Analysis.ipynb # Full notebook with code and results
+├── global_power_plant_database.csv # Dataset (if small enough to upload)
+├── README.md
+
+## 💡 Key Takeaway
+
+While policies supporting solar and wind power are essential for sustainability, this analysis highlights that **continued investments** and **capacity growth** are necessary for renewables to catch up with traditional energy generation in terms of output.
